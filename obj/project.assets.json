@@ -3185,11 +3185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\SupermarketWEB\\SupermarketWEB.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Cosa\\SupermarketWEB.csproj",
       "projectName": "SupermarketWEB",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\SupermarketWEB\\SupermarketWEB.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Cosa\\SupermarketWEB.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\SupermarketWEB\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Cosa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
