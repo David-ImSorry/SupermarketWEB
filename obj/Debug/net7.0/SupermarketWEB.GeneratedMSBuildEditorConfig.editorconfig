@@ -9,77 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SupermarketWEB
 build_property.RootNamespace = SupermarketWEB
-build_property.ProjectDir = C:\Users\Usuario\Documents\Cosa\
+build_property.ProjectDir = C:\Users\Usuario\Documents\Cosa2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\Cosa
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\Cosa2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Categories/Create.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Categories/Delete.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Categories/Edit.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Categories/Index.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Error.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Index.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/PayModes/Create.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/PayModes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5TW9kZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/PayModes/Delete.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/PayModes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5TW9kZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/PayModes/Edit.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/PayModes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5TW9kZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/PayModes/Index.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/PayModes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5TW9kZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Privacy.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Products/Create.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Products/Index.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Cosa2/Pages/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/_ViewImports.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/_ViewStart.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/Documents/Cosa/Pages/Shared/_Layout.cshtml]
+[C:/Users/Usuario/Documents/Cosa2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4zkxjzih9o

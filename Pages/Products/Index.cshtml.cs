@@ -15,11 +15,14 @@ namespace SupermarketWEB.Pages.Products
 			_context = context;
 		}
 
-		public List<Product> Products { get; set; }
+		public List<Product> Products { get; set; } = default!;
 
 		public async Task OnGetAsync()
 		{
-			Products = await _context.Products.ToListAsync();
+			if(_context.Products != null)
+			{
+				Products = await _context.Products.ToListAsync();	
+			}
 		}
 	}
 }
