@@ -4,8 +4,9 @@
     "\\Data",
     "\\Models",
     "\\Pages",
+    "\\Pages\\Categories",
     "\\Pages\\PayModes"
   ],
-  "SelectedNode": "\\Models\\Product.cs",
+  "SelectedNode": "\\SupermarketWEB.sln",
   "PreviewInSolutionExplorer": false
 }

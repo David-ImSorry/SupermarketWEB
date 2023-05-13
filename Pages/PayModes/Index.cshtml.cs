@@ -10,7 +10,6 @@ namespace SupermarketWEB.Pages.PayModes
 	public class IndexModel : PageModel
 	{
 		private readonly SupermarketContext _context;
-
 		public IndexModel(SupermarketContext context)
 		{
 			_context = context;

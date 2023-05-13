@@ -29,7 +29,5 @@ namespace SupermarketWEB.Pages.PayModes
             return RedirectToPage("./Index");
         }
     }
-
-
 }
 

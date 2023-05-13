@@ -8,19 +8,18 @@ namespace SupermarketWEB.Pages.Products
 {
     public class IndexModel : PageModel
     {
-        private readonly SupermarketContext _context;
-        public IndexModel(SupermarketContext context)
-        {
-            _context = context;
-        }
-        public IList<Product> Products { get; set; } = default;
+		private readonly SupermarketContext _context;
 
-        public async Task OnGetAsync()
-        {
-            if (_context.Categories != null)
-            {
-                Products = await _context.Products.ToListAsync();
-            }
-        }
-    }
+		public IndexModel(SupermarketContext context)
+		{
+			_context = context;
+		}
+
+		public List<Product> Products { get; set; }
+
+		public async Task OnGetAsync()
+		{
+			Products = await _context.Products.ToListAsync();
+		}
+	}
 }
