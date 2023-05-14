@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZoEqwLg5fnjdEW5jJE1bxyDonWbxlGxuZIfZJYQEr4I3PU5CLHPdZ+Y+7Z1OTmnGM4J+NPVE4q0QPCokqFwJvg==",
+  "dgSpecHash": "0he98kFCW4j4y3bZzGeSJ0XAmVJep2EIhMCEwgNOuEWaW6Zk2VwVNajwACjoGvufC731w77aG+MLl7vLEx4w1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Cosa2\\SupermarketWEB.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Cosa3\\SupermarketWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
