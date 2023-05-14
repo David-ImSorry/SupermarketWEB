@@ -1,0 +1,51 @@
+﻿@page
+@model SupermarketWEB.Pages.Transactions.IndexModel
+@{
+	ViewData["Title"] = "Index Providers";
+}
+<h1>Index Providers</h1>
+
+<p>
+	<a asp-page="Create" class="btn btn-success">Create New</a>
+</p>
+
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.Transactions[0].Product)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Transactions[0].ProductId)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Transactions[0].ProductId)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Transactions[0].ProductId)
+			</th>
+			<th>
+				Actions
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.Transactions)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.Product)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem =>item.ProductId)
+				</td>
+
+				<td>
+					<a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+					<a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
